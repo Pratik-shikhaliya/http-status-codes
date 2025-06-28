@@ -202,4 +202,5 @@ This reference guide is available under the MIT License. Feel free to use it in 
 
 ---
 
-*Made with ❤️ for the developer community*
+**Made with ❤️ by Pratik Shikhaliya — who’s memorized 418 because he is a teapot.**
+*Remember: Every status has a story.*
